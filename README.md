@@ -10,7 +10,7 @@ I am particularly interested in the **value of product for the users**, especial
 <a href='https://www.linkedin.com/in/sungdukcho'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href='https://scholar.google.com/citations?hl=en&user=zsfFJ-cAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 
-# My Thoughts on GitHub / Code Repository
+# My Thoughts on GitHub / Code Repository / Source Version Control
 
 `TO BE FILLED`
 
