@@ -1,6 +1,5 @@
 # Introducing Myself
 Hi, I am Sungduk Cho and I am working as **AI researcher** at VUNO Inc.
-- Product in Charge : VUNO Med®-LungCT AI™ (Chest CT Nodule Detection Software)
 
 I am contributing not only to the **overall ML research and development pipeline**, but also at the **end user/customer level**.
 
