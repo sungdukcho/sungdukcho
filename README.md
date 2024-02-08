@@ -5,10 +5,14 @@ I am contributing not only to the **overall ML research and development pipeline
 
 I am particularly interested in the **value of product for the users**, especially by **optimizing the pipeline** from research and development to deployment and management.
 
-### For More Information
+## For More Information
 
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=zsfFJ-cAAAAJ)
-- [Linkedin](https://www.linkedin.com/in/sungdukcho)
+<a href='https://www.linkedin.com/in/sungdukcho'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href='[https://www.linkedin.com/in/sungdukcho](https://scholar.google.com/citations?hl=en&user=zsfFJ-cAAAAJ)'><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+
+# My Thoughts on GitHub / Code Repository
+
+`TO BE FILLED`
 
 <div align=right>
 
