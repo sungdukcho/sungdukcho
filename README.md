@@ -7,7 +7,7 @@ I am particularly interested in the **value of product for the users**, especial
 
 ## For More Information
 
-<a href='https://www.linkedin.com/in/sungdukcho'><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/></a><br/>
+<a href='https://sungdukcho.github.io'><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/></a><br/>
 <a href='https://www.linkedin.com/in/sungdukcho'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/>
 <a href='https://scholar.google.com/citations?hl=en&user=zsfFJ-cAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 
