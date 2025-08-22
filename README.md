@@ -1,17 +1,15 @@
-## Sungduk Cho
+# Sungduk Cho
 
-### Career
+## Career
 
-#### [VUNO](https://www.vuno.co) 
+### [VUNO](https://www.vuno.co) 
 
-- `22.03 - Current (> 3y 5m)`
-- Researcher
+- Researcher `2022. 3 - Current (> 3y 5m)`
   - VUNO Med®-Chest X-ray™
   - VUNO Med®-LungCT AI™
   - Digital Oncology
 
-### Education
+## Education
 
-M.E. in Computer Science and Engineering @Korea University
-
-B.S. in Computer Science and Engineering @UNIST
+- M.E. in CSE @Korea University `2020 - 2022`
+- B.S. in CSE @UNIST `2015 - 2020`
